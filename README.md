@@ -1,2 +1,2 @@
 # final_project
-Linear Regression  Coin analysis 
+Linear Regression analysis 
