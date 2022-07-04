@@ -23,3 +23,6 @@ This analysis involves in the incorporation of Machine Learning statistical algo
 The dataframe created containes 5864 rows and 7 columns:
 
 We will be suing ***Date*** and ***Close*** as independent variables
+
+
+Please take a look at this [Branch](https://github.com/schoolboycamel/final_project/tree/Paolo)
