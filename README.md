@@ -66,7 +66,25 @@ This analysis involves in the incorporation of ***Machine Learning*** statistica
 
 ![Bad correlations](https://github.com/schoolboycamel/QQQ_Times_Series_Analysis/blob/Paolo/Resources%20/bad%20correlation.png)
 
-- Visualizations of lowere correlations that would have little impact for out dependent variable. We will desregard these
+- Visualizations of lowere correlations that would have little impact for out dependent variable. We will desregard these.
+
+![data preprocessing](https://github.com/schoolboycamel/QQQ_Times_Series_Analysis/blob/Paolo/Resources%20/Data_preprocess%20.png)
+![Data Preprocessing](https://github.com/schoolboycamel/QQQ_Times_Series_Analysis/blob/Paolo/Resources%20/Data_preprocess2.png)
+
+- Peprocess data. 
+  - Reshape data
+  - Scale data 
+  - Stack data
+  - Split data into X and Y 
+
+![Define model](https://github.com/schoolboycamel/QQQ_Times_Series_Analysis/blob/Paolo/Resources%20/defone%20model.png)
+- We will define the learning rate, split the data into training and testin, and finally we will fit the model 
+
+![Visualization_model](https://github.com/schoolboycamel/QQQ_Times_Series_Analysis/blob/Paolo/Resources%20/training_testing_model_vis.png
+
+-Testing model visualization, where the blue line represents the training data, and the organge line represents the testing data. Our goal here is for our model to learn its patterns, we can see that the testing data comes down to meet the training data, this means the model is learning the patterns.
+
+
 
 
 
