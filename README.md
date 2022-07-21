@@ -35,7 +35,19 @@ This analysis involves in the incorporation of ***Machine Learning*** statistica
 
 ![Technical_indicators](https://github.com/schoolboycamel/QQQ_Times_Series_Analysis/blob/Paolo/Resources%20/DF_technical_indicators%20.png)
 
-- Created 9 technical indicator columns for independent variables
+- Added 14 technical indicator columns to data frame independent variables:
+- Simple Moving Average (SMA)
+- Moving Average Convergance/Divergance (MACD)
+- Commodity Channel Index (CCI)
+- Bollinger Bands (bbands)
+  -BBL
+  -BBM
+  -BBU
+  -BBP
+  -BBB
+- Relative Strength Index (RSI)
+- Volume-Weighted Average Price (VWAP)
+- On-Balance Volume (OBV)
 
 
 
