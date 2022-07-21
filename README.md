@@ -88,6 +88,20 @@ Read csv up until the 27th of june
 
 # Read CSV to use trained model to forecast new data (up until July 18th)
 
+<img width="425" alt="image" src="https://user-images.githubusercontent.com/98793962/180325672-ecd80485-d568-4ba6-a8b8-f1b1de224f2e.png">
+
+- We will read a csv that contains data up until july 18th 2022.
+- Same data preprocessing will be applied, however, we will not rain the model, we will just use the data for forcasts. 
+- The model, which is already trained, will be used with this data in order to forecast the next 20 days after july 18th. 
+- We will repeat the same preprocessing steps done with the training data set.
+
+<img width="581" alt="image" src="https://user-images.githubusercontent.com/98793962/180327601-6ffe82fa-6a34-4c1f-a5bd-50150a6b5a63.png">
+
+- We will now predict our model and inverse the result.
+
+<img width="552" alt="image" src="https://user-images.githubusercontent.com/98793962/180327889-81438627-999e-44bb-ab08-03238bb4d57c.png">
+
+- Created a new dataframe with the forecasted data and visualizaed it
 
 
 
