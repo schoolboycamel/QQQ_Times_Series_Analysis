@@ -3,7 +3,7 @@
 
 ### Overview
 
-This analysis involves in the incorporation of Machine Learning statistical algorithms that allows us to make predictions based on data patterns. The purpose of this challenge is to focus on ***Time Series Forecasting*** using  'Facebook Prophet' which essentially anlyzes patterns in data collected in [Yahoo Finance](https://finance.yahoo.com/) (specifically the ***QQQ*** an ETF which offers broad exposure to the tech sector by tracking the [Nasdaq 100 Index ](https://www.investopedia.com/terms/n/nasdaq100.asp)), in order to make predictions on whether the security is worth adding to our portfolio or not, based on the fundamentals extracted from the data collected.
+This analysis involves in the incorporation of Deep Learning statistical algorithms that allows us to make predictions based on data patterns. The purpose of this challenge is to focus on ***Neural Networks*** and ***Deep Learning*** in order to perform a ***Time Series Forecasting*** using ***Keras***, an Open Source Neural Network library that runs on top of ***Tensorflow*** which essentially anlyzes patterns in data collected in [Yahoo Finance](https://finance.yahoo.com/) (specifically the ***QQQ*** an ETF which offers broad exposure to the tech sector by tracking the [Nasdaq 100 Index ](https://www.investopedia.com/terms/n/nasdaq100.asp)), in order to make predictions on whether the security is worth adding to our portfolio or not, as well as its over all trend, based on the fundamentals extracted from the data collected. 
 
 
 ### Libraries
