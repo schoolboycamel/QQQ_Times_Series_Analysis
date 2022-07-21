@@ -23,8 +23,8 @@ This analysis involves in the incorporation of ***Machine Learning*** statistica
   - Keras 
   - Jupyter Notebook
 ### Data Source:
-  -  [`QQQ.csv`](QQQ.csv)
-  -  [`QQQ1.csv`](QQQ1.csv)
+  -  [`QQQ_training_df.csv`](QQQ.csv)
+  -  [`QQQ_testing_df.csv`](QQQ1.csv)
 
 ### Dataframe 
 
