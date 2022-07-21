@@ -20,13 +20,14 @@ This analysis involves in the incorporation of ***Machine Learning*** statistica
   - Matplotlib
   - Plotly 
 ### Data Source:
-  -  [`QQQ_training_df.csv`](QQQ.csv)
-  -  [`QQQ_forecasting_df.csv`](QQQ1.csv)
+  -  [`QQQ_training_df.csv`](QQQ.csv) Will use to train our model
+  -  [`QQQ_forecasting_df.csv`](QQQ1.csv) Will use to forecast our model. 
 
 
 ## Results-
 
 ### Dataframe 
+Read csv up until the 27th of june
 
 ![Dataframe](https://github.com/schoolboycamel/final_project/blob/Paolo/Resources%20/DF_QQQ.png)
 
@@ -84,7 +85,9 @@ This analysis involves in the incorporation of ***Machine Learning*** statistica
 
 -Testing model visualization, where the blue line represents the training data, and the organge line represents the testing data. Our goal here is for our model to learn its patterns, we can see that the testing data comes down to meet the training data, this means the model is learning the patterns.
 
-## 
+
+# Read CSV to use trained model to forecast new data (up until July 18th)
+
 
 
 
