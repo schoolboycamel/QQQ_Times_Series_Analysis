@@ -8,31 +8,34 @@ This analysis involves in the incorporation of ***Machine Learning*** statistica
 
 ## Resources 
 
+### Software & Libraries 
 
-- Scikit-learn
-- Pandas
-- TensorFlow
-- Keras 
-- Deep Learning Neural Networks
-
-## Software:
   - Python 
   - Scikit-learn
   - Pandas
   - TensorFlow
   - Keras 
   - Jupyter Notebook
+  - Seaborn
+  - Matplotlib
+  - Plotly 
 ### Data Source:
   -  [`QQQ_training_df.csv`](QQQ.csv)
   -  [`QQQ_testing_df.csv`](QQQ1.csv)
+
+
+## Results-
 
 ### Dataframe 
 
 ![Dataframe](https://github.com/schoolboycamel/final_project/blob/Paolo/Resources%20/DF_QQQ.png)
 
-The dataframe created containes 5864 rows and 7 columns:
+- Dataframe contains 5864 rows and 7 columns
+- Dependent Variable chosen: 'CLOSE'
 
-We will be suing ***Date*** and ***Close*** as independent variables
+![Technical_indicators](https://github.com/schoolboycamel/QQQ_Times_Series_Analysis/blob/Paolo/Resources%20/DF_technical_indicators%20.png)
+
+- Created 9 technical indicator columns for independent variables
 
 
-Please take a look at this [Branch](https://github.com/schoolboycamel/final_project/tree/Paolo)
+
