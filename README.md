@@ -1,5 +1,5 @@
-# final_project
-## Machine Learning Time Series Analysis 
+
+## Deep Learning and Neural Networks Time Series Analysis 
 
 ### Overview
 
@@ -21,7 +21,7 @@ This analysis involves in the incorporation of ***Machine Learning*** statistica
   - Plotly 
 ### Data Source:
   -  [`QQQ_training_df.csv`](QQQ.csv)
-  -  [`QQQ_testing_df.csv`](QQQ1.csv)
+  -  [`QQQ_forecasting_df.csv`](QQQ1.csv)
 
 
 ## Results-
@@ -49,6 +49,25 @@ This analysis involves in the incorporation of ***Machine Learning*** statistica
 - Volume-Weighted Average Price (VWAP)
 - On-Balance Volume (OBV)
 - Dataframe now contains 5864 rows × 21 columns
+
+![Correlations](https://github.com/schoolboycamel/QQQ_Times_Series_Analysis/blob/Paolo/Resources%20/correlations.png)
+
+- Found correlations of all columns 
+- Since 'Close' is our dependent variable, we found its correlations and chose the highest correlations to implement in our model:
+  - All SMAs
+  - VWAP
+  - BBL
+  - BBM
+  - BBU
+
+![Good correlations](https://github.com/schoolboycamel/QQQ_Times_Series_Analysis/blob/Paolo/Resources%20/Good_correlation.png)
+
+- Visualizations of high correlations that we will use in our model (closer to 1) 
+
+![Bad correlations](https://github.com/schoolboycamel/QQQ_Times_Series_Analysis/blob/Paolo/Resources%20/bad%20correlation.png)
+
+- Visualizations of lowere correlations that would have little impact for out dependent variable. We will desregard these
+
 
 
 
