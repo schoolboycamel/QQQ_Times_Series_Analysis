@@ -80,10 +80,11 @@ This analysis involves in the incorporation of ***Machine Learning*** statistica
 ![Define model](https://github.com/schoolboycamel/QQQ_Times_Series_Analysis/blob/Paolo/Resources%20/defone%20model.png)
 - We will define the learning rate, split the data into training and testin, and finally we will fit the model 
 
-![Visualization_model](https://github.com/schoolboycamel/QQQ_Times_Series_Analysis/blob/Paolo/Resources%20/training_testing_model_vis.png
+![Visualization_model](https://github.com/schoolboycamel/QQQ_Times_Series_Analysis/blob/Paolo/Resources%20/training_testing_model_vis.png)
 
 -Testing model visualization, where the blue line represents the training data, and the organge line represents the testing data. Our goal here is for our model to learn its patterns, we can see that the testing data comes down to meet the training data, this means the model is learning the patterns.
 
+## 
 
 
 
