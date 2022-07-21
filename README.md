@@ -15,17 +15,16 @@ This analysis involves in the incorporation of ***Machine Learning*** statistica
 - Keras 
 - Deep Learning Neural Networks
 
-
-- Data Source:
-  -  [`QQQ.csv`](QQQ.csv)
-  -  [`QQQ1.csv`](QQQ1.csv)
- - Software:
+## Software:
   - Python 
   - Scikit-learn
   - Pandas
   - TensorFlow
   - Keras 
   - Jupyter Notebook
+### Data Source:
+  -  [`QQQ.csv`](QQQ.csv)
+  -  [`QQQ1.csv`](QQQ1.csv)
 
 ### Dataframe 
 
