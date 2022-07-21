@@ -19,6 +19,7 @@ This analysis involves in the incorporation of ***Machine Learning*** statistica
   - Seaborn
   - Matplotlib
   - Plotly 
+  -  Long-Strong-Term Memory (LSTM)
 ### Data Source:
   -  [`QQQ_training_df.csv`](QQQ.csv) Will use to train our model
   -  [`QQQ_forecasting_df.csv`](QQQ1.csv) Will use to forecast our model. 
