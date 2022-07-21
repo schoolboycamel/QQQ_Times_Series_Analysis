@@ -48,6 +48,7 @@ This analysis involves in the incorporation of ***Machine Learning*** statistica
 - Relative Strength Index (RSI)
 - Volume-Weighted Average Price (VWAP)
 - On-Balance Volume (OBV)
+- Dataframe now contains 5864 rows × 21 columns
 
 
 
